@@ -266,7 +266,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
@@ -281,6 +280,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 - [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
+- [Viola Browser](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -700,6 +700,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi` `💴`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
+- [Viola Browser](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 ---
 ### [📖Readers](#applist-menu)
 - **Novels**

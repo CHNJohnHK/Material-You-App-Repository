@@ -279,7 +279,6 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕最近上新
 少女祈祷中…
-- [Now In Android](https://github.com/android/nowinandroid) **`Full` `Multi` `FOSS`**
 - [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - [Pixel](https://play.google.com/store/apps/details?id=it.ncaferra.pixelplayerfree) **`MD-` `Monet` `💴`**
 - [Castmix](https://play.google.com/store/apps/details?id=com.ncaferra.podcast) **`MD-` `Monet` `💴`**
@@ -294,6 +293,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth) **`MD-`**
 - [ZipXtract](https://github.com/WirelessAlien/ZipXtract) **`Full` `FOSS`**
 - [Bitwarden Authenticator](https://play.google.com/store/apps/details?id=com.bitwarden.authenticator) **`MD`**
+- [Viola浏览器](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 ## 📱应用列表
 **点击标题即可回到目录XD**
 ### 🦖[谷歌应用](#目录)
@@ -711,6 +711,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) **`Monet`**
 - [Opera Beta](https://play.google.com/store/apps/details?id=com.opera.browser.beta) **`MD` `Multi` `💴`**
 - [Cromite](https://github.com/uazo/cromite) **`MD-` `Monet` `Multi`**
+- [Viola浏览器](https://gitlab.com/TipzTeam/viola) **`MD-` `Monet` `Multi` `FOSS`**
 ---
 ## [📖阅读](#目录)
 - **小说**
