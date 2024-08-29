@@ -74,6 +74,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 	- **`MOD`**：由第三方制作的 MOD 应用，非官方支持。
 	- **`TODO`**：已经有样图，但未正式发布的 app，一般可以在 github 上一睹软件全貌。
 	- **`FOSS`**：FOSS 即 Free & Open Sourse Software 的简写，这个标签针对的是自由开放的**开源**应用，它们大多数是免费的。如果一个应用有 FOSS 和付费两个版本，将优先收录 FOSS 版本。
+    -  **`-FOSS`**: 从某个版本开始**不再开源**的应用。
 	- **`💴`**：需要付费解锁一些功能的应用。
 	- **`👻`**：因为某些原因而停更的应用。
 	- **`⚠️`**：违反开源协议、可能侵犯其他开发者权益、恶意滥用系统权限，或者存在其他不正当行为的应用，证据会在其后进行标注。
@@ -765,7 +766,7 @@ Material Design 3 伴随着 Android 12 而来。它的诞生，彻底改变了�
 ## [🌦️日常生活](#目录)
 - **记账**
 	- [小星记账](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD` `💴`**
-	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi` `FOSS`**
+	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi` `-FOSS`**
 	- [Buckwheat](https://github.com/danilkinkin/buckwheat) **`Full` `Multi` `FOSS`**
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full` `FOSS`**
 	- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) **`MD-` `Monet`**
