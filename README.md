@@ -57,6 +57,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 	- **`MOD`** - App that is modified by unofficial teams. Its original app doesn't apply Material You completely.
 	- **`TODO`** - App that has no releases yet. You could preview it in its github repository.
 	- **`FOSS`** - App that is free and open-sourse. No indicator means app is Closed Source.
+     - **`-FOSS`** - App that not longer be free and open-sourse since a certain version.
 	- **`💴`** - App that needs to pay to activate some features.
 	- **`👻`** - App that stops updating for some reasons.
 	- **`⚠️`** - App that violates the open source licenses, may infringes on the rights and interests of other developers, maliciously abuses system permissions, or has other improper behaviors. Evidence will be marked behind.
@@ -754,7 +755,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 ### [🌦️Daily Life](#applist-menu)
 - **Bookkeeping**
 	- [Xiaoxing Bookkeeping](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD` `💴`**
-	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi` `FOSS`**
+	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi` `-FOSS`**
 	- [Buckwheat](https://github.com/danilkinkin/buckwheat) **`Full` `Multi` `FOSS`**
 	- [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) **`Full` `FOSS`**
 	- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio) **`MD-` `Monet`**
