@@ -268,7 +268,6 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [Hail](https://github.com/aistra0528/Hail) **`Full` `Multi`**
 ## 🆕Newly Added Apps
 **Here I will show the last 15 apps that were recently added to list.**
-- [Hiddify](https://github.com/hiddify/hiddify-next) **`MD` `FOSS`**
 - [AlistAndroid](https://github.com/jing332/AlistAndroid) **`Full` `FOSS`**
 - [KeyManager](https://github.com/Yash-Garg/KeyManager) **`Full` `FOSS`**
 - [Parabox](https://github.com/Parabox-App/parabox) **`Full` `Multi` `FOSS`**
@@ -283,6 +282,7 @@ However in fact, sometimes Material You refers to the application which (may onl
 - [FlClash](https://github.com/chen08209/FlClash) **`Full` `Multi` `FOSS`**
 - [Colorblendr](https://github.com/Mahmud0808/ColorBlendr) **`Full` `FOSS`**
 - [Bura](https://github.com/davidtakac/bura) **`Full` `FOSS`**
+- [Cashew](https://github.com/jameskokoska/Cashew) **`Full` `Multi` `FOSS`**
 ## 📱Applist
 **Now you could click the title to return to the applist menu!**
 ### 🦖[Google Apps](#applist-menu)
@@ -775,6 +775,7 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
 	- [Allowance](https://github.com/jameskokoska/Allowance) **`Full` `FOSS`**
 	- [Budget Management](https://github.com/kabirnayeem99/budget_management_syarah) **`TODO` `FOSS`**
 	- [Vase](https://play.google.com/store/apps/details?id=com.github.nullhandler.vase) **`MD-` `Monet`**
+   - [Cashew](https://github.com/jameskokoska/Cashew) **`Full` `Multi` `FOSS`**
 - **Virtual Currency**
 	- [PapriCoin](https://github.com/T8RIN/PapriCoin) **`Full` `FOSS`**
 	- [CoinTrend](https://github.com/CoinTrend/CoinTrend) **`MD` `FOSS`**
