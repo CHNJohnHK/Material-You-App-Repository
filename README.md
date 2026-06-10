@@ -970,7 +970,6 @@ And, later I will consider uploading crDroid and other Octavi's apps and list th
    	- [Wallman](https://gitlab.com/colorata/wallman) **`Full` `Multi` `FOSS`**
    	- [Walpix](https://play.google.com/store/apps/details?id=com.midori.wallpaper.photos) **`MD-` `Monet` `💴`**
 - **Icon Pack** 
-   	- [Liquor](https://gaopengk.github.io/2022/08/26/%E6%9B%B4%E6%96%B0-Liquor-%E5%9B%BE%E6%A0%87/) **`Full` `FOSS`**
    	- [LawnIcons](https://github.com/LawnchairLauncher/lawnicons) **`Full` `FOSS`**
    	- [Pure Iconpack](https://www.coolapk.com/apk/com.panpandada.pure) **`Full`**    
    	- [Bar](https://www.coolapk.com/apk/com.bar.iconpack) **`Full`**    
